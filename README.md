@@ -1,15 +1,7 @@
-Game Version: 1.19
+[![Crowdin](https://badges.crowdin.net/mcgoogletranslate/localized.svg)](https://crowdin.com/project/mcgoogletranslate)
 
 # What is this?
-Have you ever thought of what would happen if minecraft went through a lot of google translate languages?
-Well we did and today we present to you the google translate resource pack!
-
-Coming soon!
-
-# Languages
-The list here is all the languages that are completed, yet to come or in progress.
-- [ ] English (currently in progress)
-- [ ] Hebrew
+Have you ever thought of what would happen if Minecraft went through a lot of google translate languages?Well, we did, and today we present the google translate resource pack to you!
 
 # Want to contribute?
-Fork the project and start working on other languages(**do not work on en_us because it will be overriten by us**)
+We have a live Crowdin project so you could help us translate Minecraft to many other languages!To start working with us go to: [https://crowdin.com/project/mcgoogletranslate](https://crowdin.com/project/mcgoogletranslate)
